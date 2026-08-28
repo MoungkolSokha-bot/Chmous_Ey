@@ -1,5 +1,13 @@
 # Chmous_Ey
 algorithm assignment
+
+=============== MEMBER ROLE ==================
+Jully: UX desinger!!!!!!!!!!!!!!!
+tep: Memory Guardian
+NIN: presenter 
+seng: Record Architect
+Chheang: Test Captain
+
 ================= valid rule =======================
   ID must be positive and unique 
   name must not be empty and must fit
